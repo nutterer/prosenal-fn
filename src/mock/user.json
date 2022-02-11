@@ -1,0 +1,42 @@
+[
+    {
+        "username":"user",
+        "password":"123456",
+        "image":"/profile_pic/pond.jpg",
+        "first_name":"Thanakorn",
+        "last_name":"Mangkhang",
+        "department":"คอมพิวเตอร์ธุรกิจ",
+        "jobs":"สายวิชาการ"
+        
+        
+    },
+    {
+        "username":"user1",
+        "password":"123456",
+        "image":"/profile_pic/napara.jpg",
+        "first_name":"Nara",
+        "last_name":"Pat",
+        "department":"เทคโนโลยีสารสนเทศ",
+        "jobs":"สายวิชาการ"
+    },
+    {
+        "username":"user2",
+        "password":"123456",
+        "image":"/profile_pic/pornteproj.jpg",
+        "first_name":"Thanakorn",
+        "last_name":"Mangkhang",
+        "department":"งานวิชาการ",
+        "jobs":"สายสนับสนุน"
+        
+        
+    },
+    {
+        "username":"user3",
+        "password":"123456",
+        "image":"/profile_pic/pratchaya.jpg",
+        "first_name":"Nara",
+        "last_name":"Pat",
+        "department":"งานบริการทั่วไป",
+        "jobs":"สายสนับสนุน"
+    }
+]

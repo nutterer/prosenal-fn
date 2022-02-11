@@ -1,0 +1,30 @@
+[
+    {
+        "year":"2561",
+        "department":"คอมพิวเตอร์ธุรกิจ",
+        "startbudget":155334654,
+        "totalbudget":8646541231,
+        "balance":8976546
+    },
+    {
+        "year":"2560",
+        "department":"คอมพิวเตอร์ธุรกิจ",
+        "startbudget":155334654,
+        "totalbudget":8646541231,
+        "balance":8976546
+    },
+    {
+        "year":"2559",
+        "department":"เทคโนโลยีสารสนเทศ",
+        "startbudget":56768645 ,
+        "totalbudget":98763,
+        "balance":789
+    },
+    {
+        "year":"2560",
+        "department":"เทคโนโลยีสารสนเทศ",
+        "startbudget":155334654,
+        "totalbudget":98763,
+        "balance":789
+    }
+]
